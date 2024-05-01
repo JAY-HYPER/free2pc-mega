@@ -1,0 +1,33 @@
+body {
+  margin: 30;
+  display: ;
+  gap: 2em;
+  justify-content: center;
+  align-items: center;
+}
+
+.product {
+  width: auto;
+  position: relative;
+  box-shadow: 0 0 5em rgba(0, 0, 0, 0.1);
+}
+
+.main {
+  width: 100%;
+}
+
+.sideColor {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  }
+
+.logo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  }
+
+
